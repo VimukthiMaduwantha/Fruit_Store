@@ -13,6 +13,10 @@ function Cart() {
     const ShoppingBack = () => {
         navigate('/shop')
     }
+
+    const navigateCheckout = () => {
+        navigate('/checkout');
+    }
     return (
         <>
             <NavBarView />
@@ -115,6 +119,7 @@ function Cart() {
                             <Button
                                 variant="contained"
                                 // color="#A2C579"
+                                onClick={navigateCheckout}
                                 sx={{
                                     mt: 3,
                                     textTransform: "none",
