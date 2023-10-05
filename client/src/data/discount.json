@@ -1,0 +1,17 @@
+[
+    {
+        "image": "../assets/f1.jpg",
+        "name": "Water melon",
+        "discount": "5%kg"
+    },
+    {
+        "image": "../assets/f2.jpg",
+        "name": "Banana",
+        "discount": "10%kg"
+    },
+    {
+        "image": "../assets/f3.jpeg",
+        "name": "Grapes",
+        "discount": "12%kg"
+    }
+]

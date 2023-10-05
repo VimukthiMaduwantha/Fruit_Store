@@ -1,0 +1,22 @@
+[
+    {
+        "image": "../assets/f1.jpg",
+        "name": "Water Melon",
+        "price": "200/"
+    },
+    {
+        "image": "../assets/apple.jpg",
+        "name": "Red Apple",
+        "price": "300/"
+    },
+    {
+        "image": "../assets/orngge.jpg",
+        "name": "Orange",
+        "price": "500/"
+    },
+    {
+        "image": "../assets/mango.jpg",
+        "name": "Mango",
+        "price": "300/"
+    }
+]
