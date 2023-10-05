@@ -1,0 +1,47 @@
+[
+    {
+        "image": "../assets/1.jpeg",
+        "name": "Blue berry",
+        "price": "Rs.200.00"
+    },
+    {
+        "image": "../assets/2.jpeg",
+        "name": "Mango",
+        "price": "Rs.400.00"
+    },
+    {
+        "image": "../assets/3.jpeg",
+        "name": "Passion fruit",
+        "price": "Rs.250.00"
+    },
+    {
+        "image": "../assets/4.jpeg",
+        "name": "Water melon",
+        "price": "Rs.400.00"
+    },
+    {
+        "image": "../assets/6.jpg",
+        "name": "Avacado",
+        "price": "Rs.300.00"
+    },
+    {
+        "image": "../assets/7.jpg",
+        "name": "Armond",
+        "price": "Rs.800.00"
+    },
+    {
+        "image": "../assets/8.jpg",
+        "name": "Berry",
+        "price": "Rs.900.00"
+    },
+    {
+        "image": "../assets/10.jpg",
+        "name": "Stawberry",
+        "price": "Rs.1200.00"
+    },
+    {
+        "image": "../assets/f2.jpg",
+        "name": "Banana",
+        "price": "Rs.1500.00"
+    }
+]
